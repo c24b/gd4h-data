@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"4f992c5eaa6f409391944971fcf0eab3","collectionName":"ref_geographical_geospatial_information_level","type":"collection"}

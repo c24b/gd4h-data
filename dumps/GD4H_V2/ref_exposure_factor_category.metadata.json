@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"f19fcf8917094fc3bd847be7d5bf2c54","collectionName":"ref_exposure_factor_category","type":"collection"}
